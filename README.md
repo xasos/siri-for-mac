@@ -1,2 +1,2 @@
-# ideas
-random ideas and things I want to learn
+# yclist
+The original [YC List] stopped being updated, so I update it here.
